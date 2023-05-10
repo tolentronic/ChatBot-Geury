@@ -1,0 +1,926 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '18293401673@s.whatsapp.net',
+    fromMe: false,
+    id: '7037458B81C373B281A5DA147E6DDB5D',
+    participant: undefined
+  },
+  messageTimestamp: 1683205327,
+  pushName: 'Elvin E. Santana',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Aloh',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Aloh',
+  from: '18293401673'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18293401673@s.whatsapp.net',
+    fromMe: false,
+    id: '3F897ADAD91C52D529A40869D0A9B59C',
+    participant: undefined
+  },
+  messageTimestamp: 1683205352,
+  pushName: 'Elvin E. Santana',
+  message: Message {
+    conversation: 'Web',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Web',
+  from: '18293401673'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18293401673@s.whatsapp.net',
+    fromMe: false,
+    id: '47DE54F0D36653460D994C5873F8E80F',
+    participant: undefined
+  },
+  messageTimestamp: 1683205360,
+  pushName: 'Elvin E. Santana',
+  message: Message {
+    conversation: 'SIGUIENTE',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'SIGUIENTE',
+  from: '18293401673'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18492206277@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8212AA92E44CFE4788',
+    participant: undefined
+  },
+  messageTimestamp: 1683205619,
+  pushName: 'Kimberlin Rodriguez',
+  message: Message {
+    conversation: 'atiende',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'atiende',
+  from: '18492206277'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18492206277@s.whatsapp.net',
+    fromMe: false,
+    id: '3A4C50B54EE2A3981874',
+    participant: undefined
+  },
+  messageTimestamp: 1683205657,
+  pushName: 'Kimberlin Rodriguez',
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/31854022_1184857828898899_3335637558269161951_n.enc?ccb=11-4&oh=01_AdSGLjtjnky2sTOhJdV49OParLPCpNj3O1hIJdmBG88WDw&oe=647B3463&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 900,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/31854022_1184857828898899_3335637558269161951_n.enc?ccb=11-4&oh=01_AdSGLjtjnky2sTOhJdV49OParLPCpNj3O1hIJdmBG88WDw&oe=647B3463',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 11449,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__8c2ca6d2-2835-4d8b-b907-2b83fd53d68e',
+  from: '18492206277'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18492206277@s.whatsapp.net',
+    fromMe: false,
+    id: '3A038B33566AFCD32AD1',
+    participant: undefined
+  },
+  messageTimestamp: 1683205670,
+  pushName: 'Kimberlin Rodriguez',
+  message: Message {
+    conversation: 'me devolvio todo mi trabajo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'me devolvio todo mi trabajo',
+  from: '18492206277'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18492206277@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5DB63AA9520BD2E5ED',
+    participant: undefined
+  },
+  messageTimestamp: 1683205674,
+  pushName: 'Kimberlin Rodriguez',
+  message: Message {
+    conversation: 'con esta excusa:',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'con esta excusa:',
+  from: '18492206277'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18492206277@s.whatsapp.net',
+    fromMe: false,
+    id: '3A69E2F5A4B8D230CFDD',
+    participant: undefined
+  },
+  messageTimestamp: 1683205684,
+  pushName: 'Kimberlin Rodriguez',
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/40934704_231762229540835_486121419673725482_n.enc?ccb=11-4&oh=01_AdTpYHhBcm1ROeR3dy07HqteBXN_dpVw9XTlHQcxfAh1hw&oe=647B0522&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 900,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/40934704_231762229540835_486121419673725482_n.enc?ccb=11-4&oh=01_AdTpYHhBcm1ROeR3dy07HqteBXN_dpVw9XTlHQcxfAh1hw&oe=647B0522',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 12259,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__4b8065d4-f467-46d1-9034-254783a191b1',
+  from: '18492206277'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BC6756E7CFD4564E65C16E21540A7AFC',
+    participant: undefined
+  },
+  messageTimestamp: 1683205729,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: '69AE52742933820EDB80FE38D550A2BA',
+    participant: undefined
+  },
+  messageTimestamp: 1683205746,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    conversation: 'Web',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Web',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: '1954B0CAB8A997AE861A4FE09B0A7F39',
+    participant: undefined
+  },
+  messageTimestamp: 1683205803,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    conversation: 'Siguiente',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Siguiente',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18492206277@s.whatsapp.net',
+    fromMe: false,
+    id: '3A92A0B6572598692B2B',
+    participant: undefined
+  },
+  messageTimestamp: 1683205874,
+  pushName: 'Kimberlin Rodriguez',
+  message: Message {
+    conversation: 'mi amor es mentira',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'mi amor es mentira',
+  from: '18492206277'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18492206277@s.whatsapp.net',
+    fromMe: false,
+    id: '3A75B347C3A7A07C4E48',
+    participant: undefined
+  },
+  messageTimestamp: 1683205897,
+  pushName: 'Kimberlin Rodriguez',
+  message: Message {
+    conversation: 'que impotencia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'que impotencia',
+  from: '18492206277'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18492206277@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA10B73D883086BBCA3',
+    participant: undefined
+  },
+  messageTimestamp: 1683206597,
+  pushName: 'Kimberlin Rodriguez',
+  message: Message {
+    conversation: 'asi es',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'asi es',
+  from: '18492206277'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34665892269@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE3AA79F20E9EEC83D8',
+    participant: undefined
+  },
+  messageTimestamp: 1683206674,
+  pushName: 'Jenny Tolentino Carela',
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/18963582_891621441924090_6746402463184938767_n.enc?ccb=11-4&oh=01_AdTkRShloM1Xe_Pt1WwVQiHjQyZ4s3dg7xsJPhG2MuQgaQ&oe=647B2558&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/18963582_891621441924090_6746402463184938767_n.enc?ccb=11-4&oh=01_AdTkRShloM1Xe_Pt1WwVQiHjQyZ4s3dg7xsJPhG2MuQgaQ&oe=647B2558',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      firstFrameLength: 2664,
+      firstFrameSidecar: [Uint8Array],
+      isAnimated: true
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Jenny Tolentino Carela',
+  body: '',
+  from: '34665892269'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34665892269@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2978B7C3A9E1379D9E',
+    participant: undefined
+  },
+  messageTimestamp: 1683206684,
+  pushName: 'Jenny Tolentino Carela',
+  message: Message {
+    conversation: 'Cómo estás hermanito',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Jenny Tolentino Carela',
+  body: 'Cómo estás hermanito',
+  from: '34665892269'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34665892269@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD7F43D2A3108B2CF79',
+    participant: undefined
+  },
+  messageTimestamp: 1683206689,
+  pushName: 'Jenny Tolentino Carela',
+  message: Message {
+    conversation: '😊',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Jenny Tolentino Carela',
+  body: '😊',
+  from: '34665892269'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE53CBAAB82FB47',
+    participant: undefined
+  },
+  messageTimestamp: 1683206908,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '🙌 Hola bienvenido al *Chatbot* de raquel'
+    }
+  },
+  body: '🙌 Hola bienvenido al *Chatbot* de raquel',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5516D739E2DBC',
+    participant: undefined
+  },
+  messageTimestamp: 1683206908,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'te comparto los siguientes links de interes sobre los servicios\n' +
+        '👉 Escribe *web* para las informaciones acerca de desarrollo de páginas web\n' +
+        '👉 Escribe *bot*  para informaciones del ChatBot de WhatsApp\n' +
+        '👉 Escribe *app* para informaciones acerca de desarrollo de app móviles '
+    }
+  },
+  body: 'te comparto los siguientes links de interes sobre los servicios\n' +
+    '👉 Escribe *web* para las informaciones acerca de desarrollo de páginas web\n' +
+    '👉 Escribe *bot*  para informaciones del ChatBot de WhatsApp\n' +
+    '👉 Escribe *app* para informaciones acerca de desarrollo de app móviles ',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE52BE7227A729B',
+    participant: undefined
+  },
+  messageTimestamp: 1683206908,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '  🤖 Aquí te dejo un ejemplo https://bot-whatsapp.netlify.app/docs/example/.\n' +
+        'Escribir *Siguiente* para el paso final'
+    }
+  },
+  body: '  🤖 Aquí te dejo un ejemplo https://bot-whatsapp.netlify.app/docs/example/.\n' +
+    'Escribir *Siguiente* para el paso final',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5A3FEF1D9B2DD',
+    participant: undefined
+  },
+  messageTimestamp: 1683206909,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Gracias por utilizar la prueba del ChatBot de Raquel'
+    }
+  },
+  body: 'Gracias por utilizar la prueba del ChatBot de Raquel',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5E593DDC4C108',
+    participant: undefined
+  },
+  messageTimestamp: 1683206922,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '🙌 Hola bienvenido al *Chatbot* de raquel'
+    }
+  },
+  body: '🙌 Hola bienvenido al *Chatbot* de raquel',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5F99F6A416A0D',
+    participant: undefined
+  },
+  messageTimestamp: 1683206922,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'te comparto los siguientes links de interes sobre los servicios\n' +
+        '👉 Escribe *web* para las informaciones acerca de desarrollo de páginas web\n' +
+        '👉 Escribe *bot*  para informaciones del ChatBot de WhatsApp\n' +
+        '👉 Escribe *app* para informaciones acerca de desarrollo de app móviles '
+    }
+  },
+  body: 'te comparto los siguientes links de interes sobre los servicios\n' +
+    '👉 Escribe *web* para las informaciones acerca de desarrollo de páginas web\n' +
+    '👉 Escribe *bot*  para informaciones del ChatBot de WhatsApp\n' +
+    '👉 Escribe *app* para informaciones acerca de desarrollo de app móviles ',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5323DC0DBD290',
+    participant: undefined
+  },
+  messageTimestamp: 1683206922,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '  🤖 Aquí te dejo un ejemplo https://bot-whatsapp.netlify.app/docs/example/.\n' +
+        'Escribir *Siguiente* para el paso final'
+    }
+  },
+  body: '  🤖 Aquí te dejo un ejemplo https://bot-whatsapp.netlify.app/docs/example/.\n' +
+    'Escribir *Siguiente* para el paso final',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE50E7EE5CA3E86',
+    participant: undefined
+  },
+  messageTimestamp: 1683206922,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Gracias por utilizar la prueba del ChatBot de Raquel'
+    }
+  },
+  body: 'Gracias por utilizar la prueba del ChatBot de Raquel',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18492206277@s.whatsapp.net',
+    fromMe: false,
+    id: '3A55BCE304A9D8D096A1',
+    participant: undefined
+  },
+  messageTimestamp: 1683206969,
+  pushName: 'Kimberlin Rodriguez',
+  message: Message {
+    conversation: 'gracias mi amor',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'gracias mi amor',
+  from: '18492206277'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BD3BA3A73AF4D521CD765D519392ADCB',
+    participant: undefined
+  },
+  messageTimestamp: 1683206975,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5AE65DFE815AD',
+    participant: undefined
+  },
+  messageTimestamp: 1683206975,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '🙌 Hola bienvenido al *Chatbot* de raquel'
+    }
+  },
+  body: '🙌 Hola bienvenido al *Chatbot* de raquel',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE549675F15FDD7',
+    participant: undefined
+  },
+  messageTimestamp: 1683206975,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'te comparto los siguientes links de interes sobre los servicios\n' +
+        '👉 Escribe *web* para las informaciones acerca de desarrollo de páginas web\n' +
+        '👉 Escribe *bot*  para informaciones del ChatBot de WhatsApp\n' +
+        '👉 Escribe *app* para informaciones acerca de desarrollo de app móviles '
+    }
+  },
+  body: 'te comparto los siguientes links de interes sobre los servicios\n' +
+    '👉 Escribe *web* para las informaciones acerca de desarrollo de páginas web\n' +
+    '👉 Escribe *bot*  para informaciones del ChatBot de WhatsApp\n' +
+    '👉 Escribe *app* para informaciones acerca de desarrollo de app móviles ',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5F57FCB9E97D5',
+    participant: undefined
+  },
+  messageTimestamp: 1683206976,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '  🤖 Aquí te dejo un ejemplo https://bot-whatsapp.netlify.app/docs/example/.\n' +
+        'Escribir *Siguiente* para el paso final'
+    }
+  },
+  body: '  🤖 Aquí te dejo un ejemplo https://bot-whatsapp.netlify.app/docs/example/.\n' +
+    'Escribir *Siguiente* para el paso final',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5A2C6B872FF12',
+    participant: undefined
+  },
+  messageTimestamp: 1683207052,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '🙌 saludos bienvenido al *Chatbot* de raquel'
+    }
+  },
+  body: '🙌 saludos bienvenido al *Chatbot* de raquel',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5E3CC85003802',
+    participant: undefined
+  },
+  messageTimestamp: 1683207052,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'te comparto los siguientes links de interes sobre los servicios\n' +
+        '👉 Escribe *web* para las informaciones acerca de desarrollo de páginas web\n' +
+        '👉 Escribe *bot*  para informaciones del ChatBot de WhatsApp\n' +
+        '👉 Escribe *app* para informaciones acerca de desarrollo de app móviles '
+    }
+  },
+  body: 'te comparto los siguientes links de interes sobre los servicios\n' +
+    '👉 Escribe *web* para las informaciones acerca de desarrollo de páginas web\n' +
+    '👉 Escribe *bot*  para informaciones del ChatBot de WhatsApp\n' +
+    '👉 Escribe *app* para informaciones acerca de desarrollo de app móviles ',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE54B6D05DBC121',
+    participant: undefined
+  },
+  messageTimestamp: 1683207057,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '  💻 para conocer nuestros serviciosweb visitar https://.\n' +
+        'Escribir *Siguiente* para el paso final'
+    }
+  },
+  body: '  💻 para conocer nuestros serviciosweb visitar https://.\n' +
+    'Escribir *Siguiente* para el paso final',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5BE06D81ECAE7',
+    participant: undefined
+  },
+  messageTimestamp: 1683207086,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '🙌 saludos bienvenido al *Chatbot* de raquel'
+    }
+  },
+  body: '🙌 saludos bienvenido al *Chatbot* de raquel',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5A111701303DF',
+    participant: undefined
+  },
+  messageTimestamp: 1683207086,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'te comparto los siguientes links de interes sobre los servicios\n' +
+        '👉 Escribe *web* para las informaciones acerca de desarrollo de páginas web\n' +
+        '👉 Escribe *bot*  para informaciones del ChatBot de WhatsApp\n' +
+        '👉 Escribe *app* para informaciones acerca de desarrollo de app móviles '
+    }
+  },
+  body: 'te comparto los siguientes links de interes sobre los servicios\n' +
+    '👉 Escribe *web* para las informaciones acerca de desarrollo de páginas web\n' +
+    '👉 Escribe *bot*  para informaciones del ChatBot de WhatsApp\n' +
+    '👉 Escribe *app* para informaciones acerca de desarrollo de app móviles ',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE50BA315062DE4',
+    participant: undefined
+  },
+  messageTimestamp: 1683207090,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '  💻 para conocer nuestros serviciosweb visitar https://.\n' +
+        'Escribir *Siguiente* para el paso final'
+    }
+  },
+  body: '  💻 para conocer nuestros serviciosweb visitar https://.\n' +
+    'Escribir *Siguiente* para el paso final',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092223099@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE505D9D6D1E950',
+    participant: undefined
+  },
+  messageTimestamp: 1683207095,
+  pushName: 'Raquel Alvarado',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Gracias por utilizar la prueba del ChatBot de Raquel'
+    }
+  },
+  body: 'Gracias por utilizar la prueba del ChatBot de Raquel',
+  from: '18092223099'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34665892269@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D1D1E52ED1C918B8F3',
+    participant: undefined
+  },
+  messageTimestamp: 1683207097,
+  pushName: 'Jenny Tolentino Carela',
+  message: Message {
+    conversation: 'vamos a coordinar un dia para darle cariño a mi cajero ATH ( mi lapto)',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Jenny Tolentino Carela',
+  body: 'vamos a coordinar un dia para darle cariño a mi cajero ATH ( mi lapto)',
+  from: '34665892269'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18094814510@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D4086F602875A5812E',
+    participant: undefined
+  },
+  messageTimestamp: 1683207176,
+  pushName: 'Yessica',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola Buenos días',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola Buenos días',
+  from: '18094814510'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18094814510@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D23627769A1D4F7FD0',
+    participant: undefined
+  },
+  messageTimestamp: 1683207201,
+  pushName: 'Yessica',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Espero que estés muy bien',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Espero que estés muy bien',
+  from: '18094814510'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18094814510@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0836F1E360D81A38F30',
+    participant: undefined
+  },
+  messageTimestamp: 1683207209,
+  pushName: 'Yessica',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'tranqui, jajaj',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'tranqui, jajaj',
+  from: '18094814510'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18094814510@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02A2B1649040D236CD3',
+    participant: undefined
+  },
+  messageTimestamp: 1683207219,
+  pushName: 'Yessica',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'estimado dos cositas',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'estimado dos cositas',
+  from: '18094814510'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18094814510@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03128541A13DF679A39',
+    participant: undefined
+  },
+  messageTimestamp: 1683207236,
+  pushName: 'Yessica',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'cuando puedas dame acceso a la pagina de sdd',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'cuando puedas dame acceso a la pagina de sdd',
+  from: '18094814510'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18094814510@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0996C47C6A5B1C0D7F4',
+    participant: undefined
+  },
+  messageTimestamp: 1683207241,
+  pushName: 'Yessica',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'con este correo',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'con este correo',
+  from: '18094814510'
+}
